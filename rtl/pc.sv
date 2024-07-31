@@ -4,7 +4,7 @@
 // Engineer: Miguel Villa Floran
 // 
 // Create Date: 07/21/2024 11:49:15 AM
-// Module Name: Program Counter (pc)
+// Module Name: Program Counter (PC)
 // Description: 
 //////////////////////////////////////////////////////////////////////////////////
 
